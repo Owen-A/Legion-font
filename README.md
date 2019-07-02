@@ -1,4 +1,11 @@
-Legion font
+Legion font 
+
+Update by lyerelian ver 0.1.3
+
+Added Operative, Armament, Generator, and Crew icons.  Increased size of melee icon to match other range icons
+
+
+
 
 By Owen-A
 
@@ -9,3 +16,4 @@ Intended for use in promos, alt art cards and other printed and online material 
 Created in Font Forge, based largely on scans and traces of existing cards. 
 
 Please note this is my first font/use of Font Forge so I'm learning as I go. 
+
