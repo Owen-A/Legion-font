@@ -1,5 +1,8 @@
 Legion font 
 
+Update by lyerelian ver 0.1.4
+Redid unit upgrade alignment, kerning, and sizing for consistency
+
 Update by lyerelian ver 0.1.3
 
 Added Operative, Armament, Generator, and Crew icons.  Increased size of melee icon to match other range icons
